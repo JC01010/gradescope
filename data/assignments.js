@@ -60,8 +60,8 @@ assignments = {
       "title": "HW2 (Coding) : Scrambler/Descrambler",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3499765/submissions/203296255",
+      "submitted": true
     },
     {
       "title": "HW1 (Part 2A): Welcome to C [RESUBMISSION]",
