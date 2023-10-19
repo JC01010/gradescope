@@ -118,8 +118,8 @@ assignments = {
       "title": "HW#3",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-10-19T09:30:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/632949/assignments/3405618/submissions/204071402",
+      "submitted": true
     }
   ],
   "MAE30A_FA23_A00": [
