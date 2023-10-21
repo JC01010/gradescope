@@ -81,8 +81,8 @@ assignments = {
       "title": "HW3 (Midpoint)",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3540276/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3540276/submissions/204829152",
+      "submitted": true
     },
     {
       "title": "HW2 (Coding) : Scrambler/Descrambler [RESUBMISSION]",
