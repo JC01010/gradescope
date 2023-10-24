@@ -74,8 +74,8 @@ assignments = {
       "title": "HW3 (Coding): Extractor",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3538903/submissions/205576200",
+      "submitted": true
     },
     {
       "title": "HW3 (Midpoint)",
