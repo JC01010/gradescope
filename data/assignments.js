@@ -95,8 +95,8 @@ assignments = {
       "title": "HW4 (Midpoint): Life",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3573487/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3573487/submissions/205980540",
+      "submitted": true
     },
     {
       "title": "HW4 (Epsilon): Life",
