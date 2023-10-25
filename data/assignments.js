@@ -210,6 +210,13 @@ assignments = {
       "dueDate": "2023-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/637026",
       "submitted": false
+    },
+    {
+      "title": "Written Homework #2 resubmission",
+      "course": "PHYS2C_FA23_A00",
+      "dueDate": "2023-11-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/637026/assignments/3585447/submissions/206095694",
+      "submitted": true
     }
   ]
 };
