@@ -118,6 +118,13 @@ assignments = {
       "dueDate": "2023-10-31T23:59:00",
       "link": "https://www.gradescope.com/courses/630948/assignments/3595154/submissions/208279311",
       "submitted": true
+    },
+    {
+      "title": "HW5 (Midpoint): Transaction Lookup",
+      "course": "CSE30_FA23_A00",
+      "dueDate": "2023-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/630948/assignments/3616192/submissions/new",
+      "submitted": false
     }
   ],
   "MAE21_FA23_A00": [
