@@ -95,7 +95,7 @@ assignments = {
       "title": "HW4 (Coding): Life",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3573476/submissions/208258313",
+      "link": "https://www.gradescope.com/courses/630948/assignments/3573476/submissions/208272382",
       "submitted": true
     },
     {
@@ -109,8 +109,8 @@ assignments = {
       "title": "HW4 (Epsilon): Life",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3575624/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3575624/submissions/208262909",
+      "submitted": true
     },
     {
       "title": "HW3 (Coding): Extractor [RESUBMISSION]",
