@@ -95,7 +95,7 @@ assignments = {
       "title": "HW4 (Coding): Life",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3573476/submissions/208236965",
+      "link": "https://www.gradescope.com/courses/630948/assignments/3573476/submissions/208258313",
       "submitted": true
     },
     {
