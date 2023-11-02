@@ -206,8 +206,8 @@ assignments = {
       "title": "Homework 3",
       "course": "MATH184_FA23_A00",
       "dueDate": "2023-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/641084",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/641084/assignments/3586137/submissions/208683736",
+      "submitted": true
     }
   ],
   "PHYS2C_FA23_A00": [
