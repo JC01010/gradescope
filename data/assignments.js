@@ -139,8 +139,8 @@ assignments = {
       "title": "Lab1_Tensile test of 3D printed sample",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-11-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/632949/assignments/3405615/submissions/209061394",
+      "submitted": true
     },
     {
       "title": "HW#1",
@@ -269,6 +269,13 @@ assignments = {
     },
     {
       "title": "Written Homework #5 (Chapter 15,16)",
+      "course": "PHYS2C_FA23_A00",
+      "dueDate": "2023-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/637026",
+      "submitted": false
+    },
+    {
+      "title": "Written Homework #3 resubmission",
       "course": "PHYS2C_FA23_A00",
       "dueDate": "2023-11-08T23:59:00",
       "link": "https://www.gradescope.com/courses/637026",
