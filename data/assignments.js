@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2023-11-07T23:59:00",
       "link": "https://www.gradescope.com/courses/630948",
       "submitted": false
+    },
+    {
+      "title": "HW5 (Coding): Transaction Lookup",
+      "course": "CSE30_FA23_A00",
+      "dueDate": "2023-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/630948",
+      "submitted": false
     }
   ],
   "MAE21_FA23_A00": [
