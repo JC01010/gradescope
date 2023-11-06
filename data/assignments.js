@@ -185,13 +185,6 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW#6",
-      "course": "MAE21_FA23_A00",
-      "dueDate": "2023-11-09T09:30:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
-    },
-    {
       "title": "Lab2_ColdWork & Hardness Experiment",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-11-10T23:59:00",
@@ -292,6 +285,13 @@ assignments = {
       "title": "Written Homework #3 resubmission",
       "course": "PHYS2C_FA23_A00",
       "dueDate": "2023-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/637026",
+      "submitted": false
+    },
+    {
+      "title": "Written Homework #6 (Chapter 16,17)",
+      "course": "PHYS2C_FA23_A00",
+      "dueDate": "2023-11-15T23:59:00",
       "link": "https://www.gradescope.com/courses/637026",
       "submitted": false
     }
