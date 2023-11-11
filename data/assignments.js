@@ -130,8 +130,8 @@ assignments = {
       "title": "HW6 (Midpoint): Conversions",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3632047/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3632047/submissions/211726415",
+      "submitted": true
     },
     {
       "title": "HW4 (Coding): Life [RESUBMISSION]",
