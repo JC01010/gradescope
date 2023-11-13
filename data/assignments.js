@@ -209,8 +209,8 @@ assignments = {
       "title": "HW#6",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-11-16T09:30:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/632949/assignments/3405623/submissions/212138027",
+      "submitted": true
     },
     {
       "title": "Lab2_ColdWork & Hardness Experiment",
