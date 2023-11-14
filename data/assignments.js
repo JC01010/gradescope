@@ -234,6 +234,13 @@ assignments = {
       "dueDate": "2023-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/648707/assignments/3643690/submissions/212136256",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "MAE30A_FA23_A00",
+      "dueDate": "2023-11-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/648707",
+      "submitted": false
     }
   ],
   "MATH184_FA23_A00": [
