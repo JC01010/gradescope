@@ -160,6 +160,13 @@ assignments = {
       "dueDate": "2023-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/630948",
       "submitted": false
+    },
+    {
+      "title": "HW7 (Midpoint): Part 1 C code - Cencrpyt.c",
+      "course": "CSE30_FA23_A00",
+      "dueDate": "2023-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/630948",
+      "submitted": false
     }
   ],
   "MAE21_FA23_A00": [
@@ -276,8 +283,8 @@ assignments = {
       "title": "Homework 5",
       "course": "MATH184_FA23_A00",
       "dueDate": "2023-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/641084",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/641084/assignments/3654131/submissions/213152162",
+      "submitted": true
     }
   ],
   "PHYS2C_FA23_A00": [
