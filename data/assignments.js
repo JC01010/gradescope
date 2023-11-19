@@ -380,7 +380,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Written Homework #8",
+      "title": "Written Homework #8 (Chapter 34)",
       "course": "PHYS2C_FA23_A00",
       "dueDate": "2023-11-29T23:59:00",
       "link": "https://www.gradescope.com/courses/637026",
