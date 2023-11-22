@@ -172,8 +172,8 @@ assignments = {
       "title": "HW6 (Coding): Conversions [RESUBMISSION]",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3694606/submissions/214891829",
+      "submitted": true
     },
     {
       "title": "HW7 (Midpoint): Part 1 C code - Cencrpyt.c [RESUBMISSION]",
@@ -230,8 +230,8 @@ assignments = {
       "title": "HW#7",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-11-23T12:00:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/632949/assignments/3405621/submissions/214906769",
+      "submitted": true
     },
     {
       "title": "HW#6",
