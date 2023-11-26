@@ -169,6 +169,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW7 (Coding): Part 1 ASM and Part 2",
+      "course": "CSE30_FA23_A00",
+      "dueDate": "2023-11-28T11:59:00",
+      "link": "https://www.gradescope.com/courses/630948",
+      "submitted": false
+    },
+    {
       "title": "HW6 (Coding): Conversions [RESUBMISSION]",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-11-21T23:59:00",
