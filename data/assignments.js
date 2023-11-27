@@ -320,6 +320,13 @@ assignments = {
       "dueDate": "2023-11-15T23:59:00",
       "link": "https://www.gradescope.com/courses/641084/assignments/3654131/submissions/213152162",
       "submitted": true
+    },
+    {
+      "title": "Homework 6",
+      "course": "MATH184_FA23_A00",
+      "dueDate": "2023-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/641084",
+      "submitted": false
     }
   ],
   "PHYS2C_FA23_A00": [
