@@ -188,6 +188,13 @@ assignments = {
       "dueDate": "2023-11-25T23:59:00",
       "link": "https://www.gradescope.com/courses/630948",
       "submitted": false
+    },
+    {
+      "title": "HW8: Written Assignment ",
+      "course": "CSE30_FA23_A00",
+      "dueDate": "2023-12-05T11:59:00",
+      "link": "https://www.gradescope.com/courses/630948/assignments/3732255/submissions/new",
+      "submitted": false
     }
   ],
   "MAE21_FA23_A00": [
