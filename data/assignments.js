@@ -230,8 +230,8 @@ assignments = {
       "title": "HW#8",
       "course": "MAE21_FA23_A00",
       "dueDate": "2023-12-07T09:30:00",
-      "link": "https://www.gradescope.com/courses/632949",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/632949/assignments/3405617/submissions/217710717",
+      "submitted": true
     },
     {
       "title": "HW#3",
@@ -460,8 +460,8 @@ assignments = {
       "title": "Written Homework #9 (Chapter 35)",
       "course": "PHYS2C_FA23_A00",
       "dueDate": "2023-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/637026",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/637026/assignments/3721490/submissions/217711495",
+      "submitted": true
     },
     {
       "title": "Written Homework #7 resubmission",
