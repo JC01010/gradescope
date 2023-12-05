@@ -193,8 +193,8 @@ assignments = {
       "title": "HW8: Written Assignment ",
       "course": "CSE30_FA23_A00",
       "dueDate": "2023-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/630948/assignments/3732255/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/630948/assignments/3732255/submissions/217713862",
+      "submitted": true
     },
     {
       "title": "HW7 (Coding): Part 1 ASM and Part 2 [RESUBMISSION]",
