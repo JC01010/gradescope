@@ -309,8 +309,8 @@ assignments = {
       "title": "Homework 5",
       "course": "MAE30A_FA23_A00",
       "dueDate": "2023-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/648707",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/648707/assignments/3737174/submissions/218230201",
+      "submitted": true
     }
   ],
   "MATH184_FA23_A00": [
