@@ -33,8 +33,8 @@ assignments = {
       "title": "Week 1 Monday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-01-12T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836721/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836721/submissions/221821012",
+      "submitted": true
     },
     {
       "title": "Week 1 Friday Review Quiz",
@@ -47,8 +47,8 @@ assignments = {
       "title": "Week 1 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-01-12T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836725/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836725/submissions/221822519",
+      "submitted": true
     },
     {
       "title": "Week 2 Wednesday Review Quiz",
