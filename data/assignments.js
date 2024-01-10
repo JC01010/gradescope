@@ -70,8 +70,8 @@ assignments = {
       "title": "Week 2 before class: Experienced Tutor Panel",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-01-17T08:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801532/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801532/submissions/222047273",
+      "submitted": true
     },
     {
       "title": "Week 3 before class: Grading and giving feedback: rubrics and reverse engineering student mistakes",
