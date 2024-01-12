@@ -136,5 +136,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/682820/assignments/3801921/submissions/new",
       "submitted": false
     }
-  ]
+  ],
+  "MAE101A_WI24_B00": []
 };
