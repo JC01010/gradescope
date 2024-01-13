@@ -145,5 +145,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "MAE101A_WI24_B00": []
+  "MAE101A_WI24_B00": [
+    {
+      "title": "Homework 1",
+      "course": "MAE101A_WI24_B00",
+      "dueDate": "2024-01-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/705944",
+      "submitted": false
+    }
+  ]
 };
