@@ -10,20 +10,6 @@ assignments = {
   ],
   "CSE105_WI24_A00": [
     {
-      "title": "Second practice assignment (Makeup submission for another HW assignment)",
-      "course": "CSE105_WI24_A00",
-      "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
-      "submitted": false
-    },
-    {
-      "title": "Practice assignment (Makeup submission for HW)",
-      "course": "CSE105_WI24_A00",
-      "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
-      "submitted": false
-    },
-    {
       "title": "hw1CSE105W24",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-01-18T17:00:00",
