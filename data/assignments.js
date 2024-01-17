@@ -55,8 +55,8 @@ assignments = {
       "title": "Week 2 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-01-19T19:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836726/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836726/submissions/222861505",
+      "submitted": true
     },
     {
       "title": "Week 3 Wednesday Review Quiz",
