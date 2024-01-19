@@ -92,8 +92,8 @@ assignments = {
       "title": "Week 3 before class: Grading and giving feedback: rubrics and reverse engineering student mistakes",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-01-24T08:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801533/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801533/submissions/223250332",
+      "submitted": true
     },
     {
       "title": "Week 5 before class: Tutoring demo roleplay: meeting students where they are",
