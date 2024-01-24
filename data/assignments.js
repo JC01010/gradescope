@@ -11,8 +11,8 @@ assignments = {
       "title": "HW2",
       "course": "CSE101_WI24_A00",
       "dueDate": "2024-01-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/693283",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/693283/assignments/3975820/submissions/224342474",
+      "submitted": true
     }
   ],
   "CSE105_WI24_A00": [
@@ -141,8 +141,8 @@ assignments = {
       "title": "Week 4 before class: Growth mindset, inclusion",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-01-31T08:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801536/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801536/submissions/224343052",
+      "submitted": true
     },
     {
       "title": "Week 6 before class: Professionalism and ethics of tutoring",
