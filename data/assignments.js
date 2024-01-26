@@ -11,7 +11,7 @@ assignments = {
       "title": "HW2",
       "course": "CSE101_WI24_A00",
       "dueDate": "2024-01-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/693283/assignments/3975820/submissions/224342474",
+      "link": "https://www.gradescope.com/courses/693283/assignments/3975820/submissions/224845659",
       "submitted": true
     }
   ],
