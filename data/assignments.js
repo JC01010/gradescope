@@ -197,8 +197,8 @@ assignments = {
       "title": "Midterm assignment: Peer Observation",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-09T17:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801921/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801921/submissions/225781715",
+      "submitted": true
     },
     {
       "title": "Week 2 in-class group assignment",
