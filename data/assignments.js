@@ -180,6 +180,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Week 4 in-class group assignment",
+      "course": "CSE95_WI24_A00",
+      "dueDate": "2024-01-31T14:00:00",
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801541/submissions/226213688",
+      "submitted": true
+    },
+    {
       "title": "Week 7 before class: Academic integrity",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-21T10:00:00",
