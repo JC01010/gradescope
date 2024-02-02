@@ -155,8 +155,8 @@ assignments = {
       "title": "Week 5 before class: Tutoring demo roleplay: meeting students where they are",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-07T08:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801534/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801534/submissions/226858239",
+      "submitted": true
     },
     {
       "title": "Week 8 before class: Diversity and inclusion",
