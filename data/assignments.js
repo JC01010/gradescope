@@ -27,8 +27,8 @@ assignments = {
       "title": "hw2CSE105W24",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-02-01T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836708/submissions/226886416",
+      "submitted": true
     },
     {
       "title": "hw1CSE105W24",
