@@ -52,6 +52,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "hw3CSE105W24",
+      "course": "CSE105_WI24_A00",
+      "dueDate": "2024-02-15T17:00:00",
+      "link": "https://www.gradescope.com/courses/688881",
+      "submitted": false
+    },
+    {
       "title": "Week 2 Friday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-01-19T19:00:00",
