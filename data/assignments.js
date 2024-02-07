@@ -197,8 +197,8 @@ assignments = {
       "title": "Week 6 before class: Professionalism and ethics of tutoring",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-14T10:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801537/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801537/submissions/228419501",
+      "submitted": true
     },
     {
       "title": "Week 1 in-class group assignment",
@@ -218,8 +218,8 @@ assignments = {
       "title": "Week 5 in-class group assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-07T14:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801542/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801542/submissions/228399965",
+      "submitted": true
     },
     {
       "title": "Week 7 before class: Academic integrity",
