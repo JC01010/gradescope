@@ -304,8 +304,8 @@ assignments = {
       "title": "Homework 4",
       "course": "MAE101A_WI24_B00",
       "dueDate": "2024-02-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/705944",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/705944/assignments/4070776/submissions/229633088",
+      "submitted": true
     }
   ]
 };
