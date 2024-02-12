@@ -146,14 +146,14 @@ assignments = {
       "title": "Week 6 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-02-16T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836731/submissions/new",
       "submitted": false
     },
     {
       "title": "Week 6 Friday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-02-16T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836732/submissions/new",
       "submitted": false
     },
     {
@@ -167,7 +167,7 @@ assignments = {
       "title": "Week 6 Monday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-02-16T18:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836735/submissions/new",
       "submitted": false
     }
   ],
