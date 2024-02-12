@@ -276,6 +276,13 @@ assignments = {
       "dueDate": "2024-01-17T14:00:00",
       "link": "https://www.gradescope.com/courses/682820/assignments/3810519/submissions/222841855",
       "submitted": true
+    },
+    {
+      "title": "Final assignment",
+      "course": "CSE95_WI24_A00",
+      "dueDate": "2024-03-08T17:00:00",
+      "link": "https://www.gradescope.com/courses/682820/assignments/3856676/submissions/new",
+      "submitted": false
     }
   ],
   "MAE101A_WI24_B00": [
