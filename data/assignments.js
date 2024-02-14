@@ -29,7 +29,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Hw4",
+      "title": "HW4",
       "course": "CSE101_WI24_A00",
       "dueDate": "2024-02-15T23:59:00",
       "link": "https://www.gradescope.com/courses/693283",
@@ -267,7 +267,7 @@ assignments = {
       "title": "Week 6 in-class group assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-14T13:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801544/submissions/new",
+      "link": "https://www.gradescope.com/courses/682820",
       "submitted": false
     },
     {
