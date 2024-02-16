@@ -69,8 +69,8 @@ assignments = {
       "title": "hw3CSE105W24",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-02-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836718/submissions/231350457",
+      "submitted": true
     },
     {
       "title": "Week 2 Friday Review Quiz",
@@ -267,8 +267,8 @@ assignments = {
       "title": "Week 6 in-class group assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-14T13:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801544/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801544/submissions/231349216",
+      "submitted": true
     },
     {
       "title": "Week 9 before class: Learning from feedback and instructor-tutor interactions",
