@@ -190,6 +190,13 @@ assignments = {
       "dueDate": "2024-02-23T17:00:00",
       "link": "https://www.gradescope.com/courses/688881",
       "submitted": false
+    },
+    {
+      "title": "Week 7 Friday Review Quiz",
+      "course": "CSE105_WI24_A00",
+      "dueDate": "2024-02-23T17:00:00",
+      "link": "https://www.gradescope.com/courses/688881",
+      "submitted": false
     }
   ],
   "CSE95_WI24_A00": [
