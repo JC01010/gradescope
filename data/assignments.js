@@ -197,6 +197,13 @@ assignments = {
       "dueDate": "2024-02-23T17:00:00",
       "link": "https://www.gradescope.com/courses/688881/assignments/3836738/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "hw4CSE105Sp23",
+      "course": "CSE105_WI24_A00",
+      "dueDate": "2024-02-29T17:00:00",
+      "link": "https://www.gradescope.com/courses/688881",
+      "submitted": false
     }
   ],
   "CSE95_WI24_A00": [
