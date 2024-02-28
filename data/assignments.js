@@ -216,8 +216,8 @@ assignments = {
       "title": "Week 8 Monday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-01T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836739/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836739/submissions/234900002",
+      "submitted": true
     },
     {
       "title": "hw4CSE105Sp23",
