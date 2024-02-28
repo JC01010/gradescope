@@ -337,7 +337,7 @@ assignments = {
       "title": "Week 8 in-class group assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-28T13:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801548/submissions/new",
+      "link": "https://www.gradescope.com/courses/682820",
       "submitted": false
     },
     {
