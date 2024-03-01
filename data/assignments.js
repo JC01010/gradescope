@@ -83,8 +83,8 @@ assignments = {
       "title": "Week 8 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-01T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836713/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836713/submissions/235659188",
+      "submitted": true
     },
     {
       "title": "hw3CSE105W24",
@@ -188,8 +188,8 @@ assignments = {
       "title": "Week 8 Friday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-01T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836733/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836733/submissions/235659216",
+      "submitted": true
     },
     {
       "title": "Week 5 Monday Review Quiz",
@@ -344,7 +344,7 @@ assignments = {
       "title": "Week 8 in-class group assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-02-28T13:00:00",
-      "link": "https://www.gradescope.com/courses/682820",
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801548/submissions/new",
       "submitted": false
     },
     {
