@@ -407,8 +407,8 @@ assignments = {
       "title": "Final assignment",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-03-08T17:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3856676/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3856676/submissions/236937396",
+      "submitted": true
     }
   ],
   "MAE101A_WI24_B00": [
