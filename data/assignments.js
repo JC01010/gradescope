@@ -372,8 +372,8 @@ assignments = {
       "title": "Week 9 before class: Learning from feedback and instructor-tutor interactions",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-03-06T10:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801545/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801545/submissions/236921674",
+      "submitted": true
     },
     {
       "title": "Week 7 in-class group assignment",
