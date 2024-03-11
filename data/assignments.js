@@ -104,21 +104,21 @@ assignments = {
       "title": "Week 10 Friday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836715/submissions/new",
       "submitted": false
     },
     {
       "title": "Week 10 Monday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836716/submissions/new",
       "submitted": false
     },
     {
       "title": "Week 10 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881",
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836717/submissions/new",
       "submitted": false
     },
     {
@@ -395,6 +395,13 @@ assignments = {
       "dueDate": "2024-02-21T13:00:00",
       "link": "https://www.gradescope.com/courses/682820/assignments/3801546/submissions/233126766",
       "submitted": true
+    },
+    {
+      "title": "Week 10 ASYNC: Wrapping up",
+      "course": "CSE95_WI24_A00",
+      "dueDate": "2024-03-13T10:00:00",
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801547/submissions/new",
+      "submitted": false
     },
     {
       "title": "Week 8 in-class group assignment",
