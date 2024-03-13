@@ -407,8 +407,8 @@ assignments = {
       "title": "Week 10 ASYNC: Wrapping up",
       "course": "CSE95_WI24_A00",
       "dueDate": "2024-03-13T10:00:00",
-      "link": "https://www.gradescope.com/courses/682820/assignments/3801547/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/682820/assignments/3801547/submissions/238691773",
+      "submitted": true
     },
     {
       "title": "Week 8 in-class group assignment",
