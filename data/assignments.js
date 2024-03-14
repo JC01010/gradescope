@@ -125,8 +125,8 @@ assignments = {
       "title": "Week 10 Wednesday Review Quiz",
       "course": "CSE105_WI24_A00",
       "dueDate": "2024-03-15T17:00:00",
-      "link": "https://www.gradescope.com/courses/688881/assignments/3836717/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/688881/assignments/3836717/submissions/238957144",
+      "submitted": true
     },
     {
       "title": "hw3CSE105W24",
