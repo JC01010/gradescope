@@ -60,8 +60,8 @@ assignments = {
       "title": "HW7",
       "course": "CSE101_WI24_A00",
       "dueDate": "2024-03-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/693283",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/693283/assignments/4225940/submissions/239212927",
+      "submitted": true
     }
   ],
   "CSE105_WI24_A00": [
