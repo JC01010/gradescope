@@ -62,13 +62,6 @@ assignments = {
       "dueDate": "2024-03-14T23:59:00",
       "link": "https://www.gradescope.com/courses/693283/assignments/4225940/submissions/239212927",
       "submitted": true
-    },
-    {
-      "title": "Final Exam Draft",
-      "course": "CSE101_WI24_A00",
-      "dueDate": "2024-02-28T11:28:00",
-      "link": "https://www.gradescope.com/courses/693283",
-      "submitted": false
     }
   ],
   "CSE105_WI24_A00": [
