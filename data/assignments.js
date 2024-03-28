@@ -67,7 +67,7 @@ assignments = {
       "title": "Final Exam Draft",
       "course": "CSE101_WI24_A00",
       "dueDate": "2024-03-28T15:00:00",
-      "link": "https://www.gradescope.com/courses/693283",
+      "link": "https://www.gradescope.com/courses/693283/assignments/4246353/submissions/new",
       "submitted": false
     }
   ],
