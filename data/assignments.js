@@ -1,4 +1,5 @@
 assignments = {
+  "MAE30B_SP24_B00": [],
   "MATH 183": [
     {
       "title": "HW 1-7",
