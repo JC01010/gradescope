@@ -42,6 +42,20 @@ assignments = {
       "dueDate": "2024-04-11T23:59:00",
       "link": "https://www.gradescope.com/courses/761347/assignments/4321389/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "LAB 2 TUESDAY AM (A01)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-04-15T11:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4329635/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "LAB 2 THURSDAY AM (A03)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-04-17T11:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4329647/submissions/new",
+      "submitted": false
     }
   ],
   "MAE30B_SP24_B00": [
