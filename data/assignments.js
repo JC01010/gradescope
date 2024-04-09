@@ -1,5 +1,13 @@
 assignments = {
-  "MAE131A_SP24_B00": [],
+  "MAE131A_SP24_B00": [
+    {
+      "title": "Homework 1",
+      "course": "MAE131A_SP24_B00",
+      "dueDate": "2024-04-15T10:00:00",
+      "link": "https://www.gradescope.com/courses/763002",
+      "submitted": false
+    }
+  ],
   "MAE170_SP24_A00": [
     {
       "title": "LAB 1 TUESDAY AM (A01)",
@@ -74,6 +82,13 @@ assignments = {
       "dueDate": "2024-04-08T21:00:00",
       "link": "https://www.gradescope.com/courses/755013/assignments/4263727/submissions/245146522",
       "submitted": true
+    },
+    {
+      "title": "HW 8-16",
+      "course": "MATH 183",
+      "dueDate": "2024-04-11T21:00:00",
+      "link": "https://www.gradescope.com/courses/755013",
+      "submitted": false
     }
   ],
   "MATH 187B - Spring 2024": []
