@@ -20,8 +20,8 @@ assignments = {
       "title": "LAB 1 THURSDAY AM (A03)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4303222/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761347/assignments/4303222/submissions/245473236",
+      "submitted": true
     },
     {
       "title": "Lab 1 Wednesday AM (A02)",
