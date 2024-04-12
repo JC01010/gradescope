@@ -98,5 +98,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "MATH 187B - Spring 2024": []
+  "MATH 187B - Spring 2024": [
+    {
+      "title": "Participation activity 1",
+      "course": "MATH 187B - Spring 2024",
+      "dueDate": "2024-04-19T21:00:00",
+      "link": "https://www.gradescope.com/courses/760476",
+      "submitted": false
+    }
+  ]
 };
