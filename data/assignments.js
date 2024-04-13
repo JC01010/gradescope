@@ -73,6 +73,13 @@ assignments = {
       "dueDate": "2024-04-12T23:59:00",
       "link": "https://www.gradescope.com/courses/761713",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "MAE30B_SP24_B00",
+      "dueDate": "2024-04-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/761713",
+      "submitted": false
     }
   ],
   "MATH 183": [
