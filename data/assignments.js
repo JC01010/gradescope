@@ -71,8 +71,8 @@ assignments = {
       "title": "Homework 1",
       "course": "MAE30B_SP24_B00",
       "dueDate": "2024-04-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/761713",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761713/assignments/4327642/submissions/246432435",
+      "submitted": true
     },
     {
       "title": "Homework 2",
