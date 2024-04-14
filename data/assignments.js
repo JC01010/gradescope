@@ -66,6 +66,20 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "LAB 3 TUESDAY AM (A01)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-04-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4358228/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "LAB 3 THURSDAY AM (A03)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-04-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4358280/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "LAB 2 Friday PM (A06)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-04-18T23:59:00",
@@ -115,8 +129,8 @@ assignments = {
       "title": "HW 17-21",
       "course": "MATH 183",
       "dueDate": "2024-04-15T21:00:00",
-      "link": "https://www.gradescope.com/courses/755013",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/755013/assignments/4263781/submissions/246647884",
+      "submitted": true
     }
   ],
   "MATH 187B - Spring 2024": [
