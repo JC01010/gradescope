@@ -34,14 +34,14 @@ assignments = {
       "title": "LAB 2 Friday PM (A06)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-04-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4358592/submissions/new",
+      "link": "https://www.gradescope.com/courses/761347",
       "submitted": false
     },
     {
       "title": "LAB 2 Friday AM (A04)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-04-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4358593/submissions/new",
+      "link": "https://www.gradescope.com/courses/761347",
       "submitted": false
     }
   ],
