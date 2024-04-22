@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework 2",
       "course": "MAE131A_SP24_B00",
       "dueDate": "2024-04-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/763002",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/763002/assignments/4384495/submissions/248827411",
+      "submitted": true
     }
   ],
   "MAE170_SP24_A00": [
