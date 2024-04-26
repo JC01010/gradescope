@@ -99,8 +99,8 @@ assignments = {
       "title": "Homework 3",
       "course": "MAE30B_SP24_B00",
       "dueDate": "2024-04-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/761713",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761713/assignments/4389166/submissions/250323306",
+      "submitted": true
     }
   ],
   "MATH 183": [
@@ -143,8 +143,8 @@ assignments = {
       "title": "HW 34-36",
       "course": "MATH 183",
       "dueDate": "2024-04-29T21:00:00",
-      "link": "https://www.gradescope.com/courses/755013",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/755013/assignments/4263838/submissions/250324251",
+      "submitted": true
     }
   ],
   "MATH 187B - Spring 2024": [
