@@ -78,6 +78,13 @@ assignments = {
       "dueDate": "2024-04-25T23:59:00",
       "link": "https://www.gradescope.com/courses/761347",
       "submitted": false
+    },
+    {
+      "title": "Lab 5 Thursday AM (A01)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-05-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347",
+      "submitted": false
     }
   ],
   "MAE30B_SP24_B00": [
