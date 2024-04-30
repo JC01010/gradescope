@@ -159,6 +159,13 @@ assignments = {
       "dueDate": "2024-04-29T21:00:00",
       "link": "https://www.gradescope.com/courses/755013/assignments/4263838/submissions/250324251",
       "submitted": true
+    },
+    {
+      "title": "HW 37-43",
+      "course": "MATH 183",
+      "dueDate": "2024-05-02T21:00:00",
+      "link": "https://www.gradescope.com/courses/755013",
+      "submitted": false
     }
   ],
   "MATH 187B - Spring 2024": [
