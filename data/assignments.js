@@ -180,8 +180,8 @@ assignments = {
       "title": "Participation activity 2",
       "course": "MATH 187B - Spring 2024",
       "dueDate": "2024-05-08T21:00:00",
-      "link": "https://www.gradescope.com/courses/760476",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/760476/assignments/4439161/submissions/251531051",
+      "submitted": true
     }
   ]
 };
