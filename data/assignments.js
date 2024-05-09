@@ -90,8 +90,8 @@ assignments = {
       "title": "Lab 5 Thursday AM (A03)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-05-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761347/assignments/4418969/submissions/253210475",
+      "submitted": true
     },
     {
       "title": "Lab 6 Heat Transfer - Rough Draft Thursday AM (A03)",
