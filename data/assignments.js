@@ -113,6 +113,20 @@ assignments = {
       "dueDate": "2024-05-22T23:59:00",
       "link": "https://www.gradescope.com/courses/761347/assignments/4451286/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 7 Acoustics - Rough Draft Thursday AM (A03)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-05-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4497300/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7 Final Draft Acoustics Thursday AM (A03)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-06-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4497366/submissions/new",
+      "submitted": false
     }
   ],
   "MAE30B_SP24_B00": [
