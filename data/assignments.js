@@ -32,8 +32,8 @@ assignments = {
       "title": "Homework 5",
       "course": "MAE131A_SP24_B00",
       "dueDate": "2024-05-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/763002",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/763002/assignments/4476061/submissions/254621387",
+      "submitted": true
     },
     {
       "title": "Homework 6",
