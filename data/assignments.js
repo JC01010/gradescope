@@ -118,8 +118,8 @@ assignments = {
       "title": "Lab 6 Final Draft Heat Transfer Thursday AM (A03)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-05-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4451286/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761347/assignments/4451286/submissions/255074932",
+      "submitted": true
     },
     {
       "title": "Lab 7 Acoustics - Rough Draft Thursday AM (A03)",
