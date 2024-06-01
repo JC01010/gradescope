@@ -182,7 +182,14 @@ assignments = {
     {
       "title": "Homework 6",
       "course": "MAE30B_SP24_B00",
-      "dueDate": "2024-05-31T23:59:00",
+      "dueDate": "2024-06-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/761713",
+      "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "MAE30B_SP24_B00",
+      "dueDate": "2024-06-09T23:59:00",
       "link": "https://www.gradescope.com/courses/761713",
       "submitted": false
     }
