@@ -190,8 +190,8 @@ assignments = {
       "title": "Homework 6",
       "course": "MAE30B_SP24_B00",
       "dueDate": "2024-06-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/761713",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761713/assignments/4525393/submissions/256108640",
+      "submitted": true
     },
     {
       "title": "Homework 7",
@@ -320,8 +320,8 @@ assignments = {
       "title": "Participation activity 3",
       "course": "MATH 187B - Spring 2024",
       "dueDate": "2024-06-05T21:00:00",
-      "link": "https://www.gradescope.com/courses/760476",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/760476/assignments/4534076/submissions/256108788",
+      "submitted": true
     }
   ]
 };
