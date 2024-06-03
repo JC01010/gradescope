@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2024-06-02T23:59:00",
       "link": "https://www.gradescope.com/courses/763002",
       "submitted": false
+    },
+    {
+      "title": "Homework 8 (Design Challenge or Course Report)",
+      "course": "MAE131A_SP24_B00",
+      "dueDate": "2024-06-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/763002",
+      "submitted": false
     }
   ],
   "MAE170_SP24_A00": [
