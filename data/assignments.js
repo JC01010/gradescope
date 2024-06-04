@@ -60,8 +60,8 @@ assignments = {
       "title": "Optional Homework 9",
       "course": "MAE131A_SP24_B00",
       "dueDate": "2024-06-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/763002",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/763002/assignments/4549647/submissions/256369682",
+      "submitted": true
     },
     {
       "title": "Extra credit for textbook example problems",
@@ -320,6 +320,13 @@ assignments = {
       "dueDate": "2024-06-03T21:00:00",
       "link": "https://www.gradescope.com/courses/755013/assignments/4265282/submissions/255966523",
       "submitted": true
+    },
+    {
+      "title": "HW 77-80",
+      "course": "MATH 183",
+      "dueDate": "2024-06-06T21:00:00",
+      "link": "https://www.gradescope.com/courses/755013",
+      "submitted": false
     }
   ],
   "MATH 187B - Spring 2024": [
