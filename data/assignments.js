@@ -160,8 +160,8 @@ assignments = {
       "title": "Lab 7 Final Draft Acoustics Thursday AM (A03)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-06-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4497366/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761347/assignments/4497366/submissions/256608424",
+      "submitted": true
     },
     {
       "title": "Lab 8 - Calibration Thursday AM (A03)",
