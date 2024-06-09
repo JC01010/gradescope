@@ -167,8 +167,8 @@ assignments = {
       "title": "Lab 8 - Calibration Thursday AM (A03)",
       "course": "MAE170_SP24_A00",
       "dueDate": "2024-06-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/761347/assignments/4544620/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761347/assignments/4544620/submissions/256918595",
+      "submitted": true
     }
   ],
   "MAE30B_SP24_B00": [
