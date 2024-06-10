@@ -169,6 +169,20 @@ assignments = {
       "dueDate": "2024-06-12T23:59:00",
       "link": "https://www.gradescope.com/courses/761347/assignments/4544620/submissions/256918595",
       "submitted": true
+    },
+    {
+      "title": "Lab 8 - Calibration Friday AM (A04)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-06-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4564755/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 8 - Calibration Friday PM (A06)",
+      "course": "MAE170_SP24_A00",
+      "dueDate": "2024-06-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/761347/assignments/4564757/submissions/new",
+      "submitted": false
     }
   ],
   "MAE30B_SP24_B00": [
