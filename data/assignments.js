@@ -232,8 +232,8 @@ assignments = {
       "title": "Homework 7",
       "course": "MAE30B_SP24_B00",
       "dueDate": "2024-06-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/761713",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/761713/assignments/4544515/submissions/256984386",
+      "submitted": true
     }
   ],
   "MATH 183": [
