@@ -15,6 +15,13 @@ assignments = {
       "dueDate": "2024-08-08T23:59:00",
       "link": "https://www.gradescope.com/courses/815763",
       "submitted": false
+    },
+    {
+      "title": "Homework 1",
+      "course": "MATH10B_S224_C00",
+      "dueDate": "2024-08-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/815763",
+      "submitted": false
     }
   ]
 };
