@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2024-08-18T22:00:00",
       "link": "https://www.gradescope.com/courses/814871/assignments/4728449/submissions/261564620",
       "submitted": true
+    },
+    {
+      "title": "Midterm exam 1",
+      "course": "MAE107_S224_A00",
+      "dueDate": "2024-08-20T12:25:00",
+      "link": "https://www.gradescope.com/courses/814871",
+      "submitted": false
     }
   ]
 };
