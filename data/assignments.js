@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2024-08-20T12:25:00",
       "link": "https://www.gradescope.com/courses/814871/assignments/4762795/submissions/261765607",
       "submitted": true
+    },
+    {
+      "title": "Homework 3 - Theory",
+      "course": "MAE107_S224_A00",
+      "dueDate": "2024-08-26T22:00:00",
+      "link": "https://www.gradescope.com/courses/814871",
+      "submitted": false
     }
   ]
 };
