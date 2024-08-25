@@ -25,8 +25,8 @@ assignments = {
       "title": "Homework 3 - Theory",
       "course": "MAE107_S224_A00",
       "dueDate": "2024-08-25T22:00:00",
-      "link": "https://www.gradescope.com/courses/814871",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/814871/assignments/4772362/submissions/262400932",
+      "submitted": true
     }
   ]
 };
