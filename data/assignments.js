@@ -18,5 +18,14 @@ assignments = {
       "submitted": false
     }
   ],
+  "MATH100A_FA24_A00": [
+    {
+      "title": "Homework 1",
+      "course": "MATH100A_FA24_A00",
+      "dueDate": "2024-10-08T22:00:00",
+      "link": "https://www.gradescope.com/courses/887603",
+      "submitted": false
+    }
+  ],
   "MATH10A_FA24_C00": []
 };
