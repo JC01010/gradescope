@@ -3,7 +3,7 @@ assignments = {
     {
       "title": "HW1 Written Part",
       "course": "COGS118B_FA24_A00",
-      "dueDate": "2024-10-10T23:59:00",
+      "dueDate": "2024-10-11T08:00:00",
       "link": "https://www.gradescope.com/courses/880945",
       "submitted": false
     }
