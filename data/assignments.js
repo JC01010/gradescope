@@ -56,6 +56,5 @@ assignments = {
       "submitted": false
     }
   ],
-  "MATH10A_FA24_C00": [],
-  "UT 2024": []
+  "MATH10A_FA24_C00": []
 };
