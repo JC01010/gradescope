@@ -83,6 +83,5 @@ assignments = {
       "link": "https://www.gradescope.com/courses/887603",
       "submitted": false
     }
-  ],
-  "MATH10A_FA24_C00": []
+  ]
 };
