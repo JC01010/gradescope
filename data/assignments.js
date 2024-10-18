@@ -82,6 +82,13 @@ assignments = {
       "dueDate": "2024-10-15T22:00:00",
       "link": "https://www.gradescope.com/courses/887603/assignments/5130728/submissions/278401662",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "MATH100A_FA24_A00",
+      "dueDate": "2024-10-22T22:00:00",
+      "link": "https://www.gradescope.com/courses/887603",
+      "submitted": false
     }
   ]
 };
