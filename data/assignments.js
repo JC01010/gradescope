@@ -57,15 +57,15 @@ assignments = {
       "title": "Homework 2 Resubmission",
       "course": "MAE143A_FA24_A00",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/879912",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/879912/assignments/5151418/submissions/279604990",
+      "submitted": true
     },
     {
       "title": "Homework 3",
       "course": "MAE143A_FA24_A00",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/879912",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/879912/assignments/5151442/submissions/279632754",
+      "submitted": true
     }
   ],
   "MATH100A_FA24_A00": [
