@@ -73,6 +73,20 @@ assignments = {
       "dueDate": "2024-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/879912/assignments/5151442/submissions/279632754",
       "submitted": true
+    },
+    {
+      "title": "Homework 3 Resubmission",
+      "course": "MAE143A_FA24_A00",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/879912",
+      "submitted": false
+    },
+    {
+      "title": "Homework 4",
+      "course": "MAE143A_FA24_A00",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/879912",
+      "submitted": false
     }
   ],
   "MATH100A_FA24_A00": [
