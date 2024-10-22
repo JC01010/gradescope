@@ -11,8 +11,8 @@ assignments = {
       "title": "HW2 Written Part",
       "course": "COGS118B_FA24_A00",
       "dueDate": "2024-10-23T08:00:00",
-      "link": "https://www.gradescope.com/courses/880945",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/880945/assignments/5127474/submissions/280620494",
+      "submitted": true
     }
   ],
   "MAE11_FA24_A00": [
