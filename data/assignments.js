@@ -34,7 +34,7 @@ assignments = {
       "title": "HW3",
       "course": "MAE11_FA24_A00",
       "dueDate": "2024-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/885449/assignments/5188796/submissions/280766381",
+      "link": "https://www.gradescope.com/courses/885449/assignments/5188796/submissions/280939190",
       "submitted": true
     }
   ],
