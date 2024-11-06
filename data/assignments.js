@@ -157,8 +157,8 @@ assignments = {
       "title": "Homework 5",
       "course": "MATH100A_FA24_A00",
       "dueDate": "2024-11-05T22:00:00",
-      "link": "https://www.gradescope.com/courses/887603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/887603/assignments/5268282/submissions/285983005",
+      "submitted": true
     }
   ]
 };
