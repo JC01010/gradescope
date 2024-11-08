@@ -18,8 +18,8 @@ assignments = {
       "title": "HW3W",
       "course": "COGS118B_FA24_A00",
       "dueDate": "2024-11-08T08:00:00",
-      "link": "https://www.gradescope.com/courses/880945",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/880945/assignments/5226624/submissions/286886085",
+      "submitted": true
     }
   ],
   "MAE11_FA24_A00": [
