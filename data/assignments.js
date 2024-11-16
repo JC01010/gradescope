@@ -134,22 +134,22 @@ assignments = {
       "title": "Midterm Resubmission",
       "course": "MAE143A_FA24_A00",
       "dueDate": "2024-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/879912",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/879912/assignments/5275625/submissions/289740384",
+      "submitted": true
     },
     {
       "title": "Homework 5 Resubmission",
       "course": "MAE143A_FA24_A00",
       "dueDate": "2024-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/879912",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/879912/assignments/5300077/submissions/289740140",
+      "submitted": true
     },
     {
       "title": "Homework 6",
       "course": "MAE143A_FA24_A00",
       "dueDate": "2024-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/879912",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/879912/assignments/5300082/submissions/289740889",
+      "submitted": true
     }
   ],
   "MATH100A_FA24_A00": [
