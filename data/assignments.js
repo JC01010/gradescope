@@ -62,8 +62,8 @@ assignments = {
       "title": "HW 6",
       "course": "MAE11_FA24_A00",
       "dueDate": "2024-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/885449",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/885449/assignments/5319533/submissions/290491354",
+      "submitted": true
     }
   ],
   "MAE143A_FA24_A00": [
