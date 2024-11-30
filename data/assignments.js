@@ -178,6 +178,13 @@ assignments = {
       "dueDate": "2024-11-29T23:59:00",
       "link": "https://www.gradescope.com/courses/879912/assignments/5371555/submissions/293527459",
       "submitted": true
+    },
+    {
+      "title": "Homework 8",
+      "course": "MAE143A_FA24_A00",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/879912",
+      "submitted": false
     }
   ],
   "MATH100A_FA24_A00": [
