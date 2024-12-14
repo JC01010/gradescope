@@ -32,8 +32,8 @@ assignments = {
       "title": "Project Submission",
       "course": "COGS118B_FA24_A00",
       "dueDate": "2024-12-13T19:00:00",
-      "link": "https://www.gradescope.com/courses/880945",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/880945/assignments/5406561/submissions/297438403",
+      "submitted": true
     },
     {
       "title": "Individual Contribution Statement and 3 Peer Reviews",
