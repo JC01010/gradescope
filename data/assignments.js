@@ -39,8 +39,8 @@ assignments = {
       "title": "Individual Contribution Statement and 3 Peer Reviews",
       "course": "COGS118B_FA24_A00",
       "dueDate": "2024-12-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/880945",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/880945/assignments/5406579/submissions/297603096",
+      "submitted": true
     }
   ],
   "MAE11_FA24_A00": [
