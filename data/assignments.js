@@ -7,6 +7,5 @@ assignments = {
       "link": "https://www.gradescope.com/courses/949099",
       "submitted": false
     }
-  ],
-  "MATH189_WI25_A00": []
+  ]
 };
