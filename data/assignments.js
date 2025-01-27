@@ -21,5 +21,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/949099",
       "submitted": false
     }
+  ],
+  "SE160A_WI25_A00": [
+    {
+      "title": "Homework Set (#1)",
+      "course": "SE160A_WI25_A00",
+      "dueDate": "2025-02-02T23:58:00",
+      "link": "https://www.gradescope.com/courses/968371",
+      "submitted": false
+    }
   ]
 };
