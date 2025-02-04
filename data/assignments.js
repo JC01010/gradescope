@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2025-02-02T23:59:00",
       "link": "https://www.gradescope.com/courses/949099/assignments/5680108/submissions/304501868",
       "submitted": true
+    },
+    {
+      "title": "Midterm exam 1",
+      "course": "MAE101B_WI25_A00",
+      "dueDate": "2025-02-04T15:45:00",
+      "link": "https://www.gradescope.com/courses/949099",
+      "submitted": false
     }
   ],
   "SE160A_WI25_A00": [
