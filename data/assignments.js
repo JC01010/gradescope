@@ -1,5 +1,4 @@
 assignments = {
-  "COGS14B_WI25_A00": [],
   "MAE101B_WI25_A00": [
     {
       "title": "Homework 1",
