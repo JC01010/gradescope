@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2025-02-04T15:45:00",
       "link": "https://www.gradescope.com/courses/949099/assignments/5725922/submissions/305107726",
       "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "MAE101B_WI25_A00",
+      "dueDate": "2025-02-16T11:59:00",
+      "link": "https://www.gradescope.com/courses/949099",
+      "submitted": false
     }
   ],
   "SE160A_WI25_A00": [
