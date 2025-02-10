@@ -55,8 +55,8 @@ assignments = {
       "title": "MATLAB Project #1 Wing Spar Analysis",
       "course": "SE160A_WI25_A00",
       "dueDate": "2025-02-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/968371",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/968371/assignments/5745698/submissions/306854591",
+      "submitted": true
     }
   ]
 };
