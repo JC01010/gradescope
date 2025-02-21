@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2025-02-09T23:59:00",
       "link": "https://www.gradescope.com/courses/968371/assignments/5745698/submissions/306854591",
       "submitted": true
+    },
+    {
+      "title": "Homework3",
+      "course": "SE160A_WI25_A00",
+      "dueDate": "2025-02-23T12:58:00",
+      "link": "https://www.gradescope.com/courses/968371/assignments/5831876/submissions/new",
+      "submitted": false
     }
   ]
 };
