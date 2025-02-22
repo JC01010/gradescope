@@ -69,7 +69,7 @@ assignments = {
       "title": "Homework3",
       "course": "SE160A_WI25_A00",
       "dueDate": "2025-02-23T12:58:00",
-      "link": "https://www.gradescope.com/courses/968371/assignments/5831876/submissions/new",
+      "link": "https://www.gradescope.com/courses/968371",
       "submitted": false
     }
   ]
