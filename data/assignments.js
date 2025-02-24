@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 5",
       "course": "MAE101B_WI25_A00",
       "dueDate": "2025-02-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/949099",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949099/assignments/5804742/submissions/311460568",
+      "submitted": true
     }
   ],
   "SE160A_WI25_A00": [
@@ -69,8 +69,8 @@ assignments = {
       "title": "Homework3",
       "course": "SE160A_WI25_A00",
       "dueDate": "2025-02-23T23:58:00",
-      "link": "https://www.gradescope.com/courses/968371",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/968371/assignments/5831876/submissions/311458992",
+      "submitted": true
     }
   ]
 };
