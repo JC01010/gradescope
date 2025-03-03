@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2025-02-23T23:58:00",
       "link": "https://www.gradescope.com/courses/968371/assignments/5831876/submissions/311458992",
       "submitted": true
+    },
+    {
+      "title": "Homework Set (#4)",
+      "course": "SE160A_WI25_A00",
+      "dueDate": "2025-03-09T23:58:00",
+      "link": "https://www.gradescope.com/courses/968371",
+      "submitted": false
     }
   ]
 };
