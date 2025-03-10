@@ -59,7 +59,7 @@ assignments = {
     {
       "title": "Homework 7",
       "course": "MAE101B_WI25_A00",
-      "dueDate": "2025-03-10T23:59:00",
+      "dueDate": "2025-03-12T23:59:00",
       "link": "https://www.gradescope.com/courses/949099",
       "submitted": false
     }
