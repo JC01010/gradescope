@@ -104,7 +104,7 @@ assignments = {
       "title": "MATLAB Project (#2) Wing Analysis",
       "course": "SE160A_WI25_A00",
       "dueDate": "2025-03-13T23:58:00",
-      "link": "https://www.gradescope.com/courses/968371/assignments/5907526/submissions/317097582",
+      "link": "https://www.gradescope.com/courses/968371/assignments/5907526/submissions/317166363",
       "submitted": true
     },
     {
