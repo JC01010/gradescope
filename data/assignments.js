@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2025-03-18T23:59:00",
       "link": "https://www.gradescope.com/courses/949099/assignments/5942164/submissions/318335356",
       "submitted": true
+    },
+    {
+      "title": "Final exam",
+      "course": "MAE101B_WI25_A00",
+      "dueDate": "2025-03-20T18:15:00",
+      "link": "https://www.gradescope.com/courses/949099",
+      "submitted": false
     }
   ],
   "SE160A_WI25_A00": [
