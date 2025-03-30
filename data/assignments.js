@@ -78,6 +78,7 @@ assignments = {
       "submitted": true
     }
   ],
+  "MATH181A_SP25_A00": [],
   "SE160A_WI25_A00": [
     {
       "title": "Homework Set (#1)",
