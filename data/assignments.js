@@ -78,6 +78,16 @@ assignments = {
       "submitted": true
     }
   ],
+  "MAE105_SP25_A00": [
+    {
+      "title": "Homework 1 (due April 10, Thursday)",
+      "course": "MAE105_SP25_A00",
+      "dueDate": "2025-04-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/1015213",
+      "submitted": false
+    }
+  ],
+  "MATH10C_SP25_A00": [],
   "MATH181A_SP25_A00": [],
   "SE160A_WI25_A00": [
     {
