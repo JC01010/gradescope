@@ -88,7 +88,15 @@ assignments = {
     }
   ],
   "MATH10C_SP25_A00": [],
-  "MATH181A_SP25_A00": [],
+  "MATH181A_SP25_A00": [
+    {
+      "title": "Homework 1",
+      "course": "MATH181A_SP25_A00",
+      "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/1008409",
+      "submitted": false
+    }
+  ],
   "SE160A_WI25_A00": [
     {
       "title": "Homework Set (#1)",
