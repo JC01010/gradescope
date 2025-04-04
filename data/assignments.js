@@ -87,6 +87,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "MAE143B_SP25_A00": [],
   "MATH10C_SP25_A00": [],
   "MATH181A_SP25_A00": [
     {
