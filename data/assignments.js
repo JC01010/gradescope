@@ -8,7 +8,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "MAE143B_SP25_A00": [],
+  "MAE143B_SP25_A00": [
+    {
+      "title": "Homework 1",
+      "course": "MAE143B_SP25_A00",
+      "dueDate": "2025-04-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/1017220",
+      "submitted": false
+    }
+  ],
   "MATH10C_SP25_A00": [],
   "MATH181A_SP25_A00": [
     {
