@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2025-04-04T23:59:00",
       "link": "https://www.gradescope.com/courses/1008409/assignments/6028316/submissions/322690801",
       "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "MATH181A_SP25_A00",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/1008409",
+      "submitted": false
     }
   ],
   "SE160A_WI25_A00": [
