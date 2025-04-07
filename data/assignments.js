@@ -1,4 +1,13 @@
 assignments = {
+  "MAE104_SP25_A00": [
+    {
+      "title": "Homework 1",
+      "course": "MAE104_SP25_A00",
+      "dueDate": "2025-04-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/1017916",
+      "submitted": false
+    }
+  ],
   "MAE105_SP25_A00": [
     {
       "title": "Homework 1 (due April 10, Thursday)",
