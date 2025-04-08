@@ -17,15 +17,6 @@ assignments = {
       "submitted": false
     }
   ],
-  "MAE131A_SP25_B00": [
-    {
-      "title": "Homework 1",
-      "course": "MAE131A_SP25_B00",
-      "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/1017322",
-      "submitted": false
-    }
-  ],
   "MAE143B_SP25_A00": [
     {
       "title": "Homework 1",
