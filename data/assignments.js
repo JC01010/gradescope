@@ -15,6 +15,13 @@ assignments = {
       "dueDate": "2025-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1015213/assignments/6024433/submissions/323414960",
       "submitted": true
+    },
+    {
+      "title": "Homework 2 (due Thursday, April 17)",
+      "course": "MAE105_SP25_A00",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/1015213",
+      "submitted": false
     }
   ],
   "MAE143B_SP25_A00": [
